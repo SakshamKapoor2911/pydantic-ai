@@ -3736,7 +3736,7 @@ async def test_openai_reasoning_roundtrip_multiple_fields(allow_model_requests: 
                 # DeepSeek style + Ollama style
                 'reasoning_content': 'reasoning from deepseek',
                 'reasoning': 'reasoning from ollama',
-            }
+            },
         )
     )
 
